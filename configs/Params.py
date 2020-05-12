@@ -10,7 +10,7 @@ class Params(object):
     omapFileDefaultName = "None" #"omap.png"
 
     #GPU
-    isDepthPred = True
+    isDepthPred = False #True
     isGUI = True
 
     #Annotation
